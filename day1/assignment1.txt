@@ -1,0 +1,30 @@
+Question 1:
+What is your understanding of Blockchain?
+->A blockchain is a database that is shared across a network of computers. Once a record has been added to the chain it is very difficult to change. 
+  To ensure all the copies of the database are the same, the network makes constant checks. Blockchain is a distributed database existing on multiple computers at the same time. 
+  It is constantly growing as new sets of recordings, or 'blocks', are added to it. Each block contains a timestamp and a link to the previous block, so they actually form a chain.
+
+Question 2:
+What is the core problem Blockchain trying to solve?
+-> 1. Blockchain Addresses The Problem Of Data Loss Due To Hardware Or Connectivity Issues
+   2. Blockchain Addresses The Problem Of Data Corruption Due To Intermittent Hardware Or Connectivity Issues
+   3. Blockchain Addresses The Problem Of Data Security And Trust By Making The Ledger Public
+
+Question 3:
+What are the few features which Blockchain will give you?
+-> 1. Cannot be Corrupted: Every node on the system has a copy of the digital ledger. To add a transaction every node needs to check its validity. If the majority thinks it’s valid, then it’s added to the ledger. This promotes transparency and makes it corruption-proof.
+   2. Decentralized Technology: The network is decentralized meaning it doesn’t have any governing authority or a single person looking after the framework. Rather a group of nodes maintains the network making it decentralized.
+   3. Enhanced Security: As it gets rid of the need for central authority, no can just simply change any characteristics of the network for their benefit. Using encryption ensures another layer of security for the system.
+   4. Consensus: Every blockchain thrives because of the consensus algorithms. The architecture is cleverly designed, and consensus algorithms are at the core of this architecture. Every blockchain has a consensus to help the network make decisions.
+   5. Faster Settlement: Traditional banking systems are quite slow. Sometimes it can take days to process a transaction after finalizing all settlements. It also can be corrupted quite easily. Blockchain offers a faster settlement compared to traditional banking systems. This way a user can transfer money relatively faster, which saves a lot of time in the long run.
+
+Question 4:
+What all things does a Block contain?
+-> Each block contains, among other things, the current time, a record of some or all recent transactions, and a reference to the block that came immediately before it. 
+   It also contains an answer to a difficult-to-solve mathematical puzzle - the answer to which is unique to each block. New blocks cannot be submitted to the network without the correct answer - the process of "mining" is essentially the process of competing to be the next to find the answer that "solves" the current block. 
+   The mathematical problem in each block is extremely difficult to solve, but once a valid solution is found, it is very easy for the rest of the network to confirm that the solution is correct. 
+   There are multiple valid solutions for any given block - only one of the solutions needs to be found for the block to be solved.
+
+Question 5:
+How is the verifiability of Blockchain has been attained?
+-> once the data is sent to other computers in the network all the computers will have same data as of the main computer, if the data is changed in the first computer, the other systems will not be synced as data is changed only in first computer. with the help of oter computers in the same network we can verify that data has been changed in the first computer. this isknown as verifiability.
